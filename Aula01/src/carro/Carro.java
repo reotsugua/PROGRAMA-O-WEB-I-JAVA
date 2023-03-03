@@ -1,4 +1,4 @@
-package Carro;
+package carro;
 
 public class Carro {
     int qtdRodas;

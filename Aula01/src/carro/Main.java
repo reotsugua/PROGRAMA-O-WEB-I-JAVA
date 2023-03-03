@@ -1,6 +1,4 @@
-package Carro;
-
-import Carro.Carro;
+package carro;
 
 public class Main {
     public static void main(String[] args) {
